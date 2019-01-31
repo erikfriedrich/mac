@@ -1,6 +1,4 @@
 language: node_js
-node_js: 
-   -"v10.15.0"
 script: /Users/efriedrich/Desktop/mac_version node fertigeampelmac.js --single-run
 git: 
   depth: 3
