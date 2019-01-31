@@ -1,2 +1,2 @@
-language: bash
+language: node_js
 script: node ./Desktop/mac_version/mac.js
