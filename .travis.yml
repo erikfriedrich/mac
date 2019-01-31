@@ -1,4 +1,4 @@
 language: node_js
-script: node ./mac_version/mac.js
+script: node ./Desktop/mac_version/mac.js
 git: 
   depth: 3
